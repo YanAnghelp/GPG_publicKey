@@ -1,4 +1,4 @@
-## GPG_publicKey
+# GPG_publicKey
 
 GPG 公钥寄存网页（索引）
 
