@@ -1,15 +1,19 @@
 # GPG_publicKey
 
-GPG 公钥寄存网页（索引）
+GPG 公钥寄存&索引网页。
 
-GPG public key storage web page
+GPG public key hosting & indexing web pages.
 
-## Description 描述
 
-此项目作为一个纯静态Web，你可以随意Fork并使用，但请确保不会和演示站点混淆
 
-This project, as a pure static Web, you can freely Fork and use it, but please make sure not to confuse it with the demo site
+## License
 
-## GithubPages Station 演示网站/DEMO
+- 本项目基于 [**MIT License**](./LICENSE) 授权，请在遵守此协议的情况下使用本项目。
+
+- This project is licensed under the [**MIT License**](./LICENSE). Please use this project in compliance with this agreement.
+
+  
+
+## DEMO for GitHubPages Station
 
 Web: https://pubkey.bingo-service.top/
